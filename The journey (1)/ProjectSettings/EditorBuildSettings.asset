@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 07fa8ab03c43d5f4cbd2c2b3eed38b05
+  - enabled: 1
+    path: Assets/Scenes/SelectPJ.unity
+    guid: 34592cf0aa1b5f14abb565267272090f
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: 94fcd335fd66de140991eaf9c05d9999
+  - enabled: 1
+    path: Assets/Scenes/tutorial2.unity
+    guid: b40715362e612664b8e710a904ebedb3
+  - enabled: 1
+    path: Assets/Scenes/tutorial3.unity
+    guid: 8b9ec3aac8edc254eb221ae596ca7f61
+  - enabled: 1
+    path: Assets/Scenes/Nivel 1.unity
+    guid: a0f63ddd9d71341438f57a6b37fda367
+  - enabled: 1
+    path: Assets/Scenes/Nivel 1.2.unity
+    guid: 7ee664beb14faae4093a89c49e568e2f
+  - enabled: 1
+    path: Assets/Scenes/Nivel 1.3.unity
+    guid: 459d978b463680240aff54bd2cf852cc
+  - enabled: 1
+    path: Assets/Scenes/Nivel 2.unity
+    guid: 09c555c9e5c5afc40891a9e2dbf2bcb6
+  - enabled: 1
+    path: Assets/Scenes/Nivel 2.2.unity
+    guid: 7f5667c84e1cd78499f3b944ea326a69
+  - enabled: 1
+    path: Assets/Scenes/Nivel 2.3.unity
+    guid: c4e91b55fdc9c03469ada4bae33423d6
+  - enabled: 1
+    path: Assets/Scenes/WoodcutterDaniel.unity
+    guid: f1028b9a49b84da4ab705d430f033831
+  m_configObjects: {}

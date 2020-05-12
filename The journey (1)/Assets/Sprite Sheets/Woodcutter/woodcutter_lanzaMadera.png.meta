@@ -1,0 +1,224 @@
+fileFormatVersion: 2
+guid: 29acc3062689e4c4ebd6d929b8c073e5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: woodcutter_lanzaMadera_0
+  - first:
+      213: 21300002
+    second: woodcutter_lanzaMadera_1
+  - first:
+      213: 21300004
+    second: woodcutter_lanzaMadera_2
+  - first:
+      213: 21300006
+    second: woodcutter_lanzaMadera_3
+  - first:
+      213: 21300008
+    second: woodcutter_lanzaMadera_4
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: woodcutter_lanzaMadera_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 0
+        width: 26
+        height: 32
+      alignment: 9
+      pivot: {x: 0.26969153, y: 0.060919624}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0323ac99e70dce34b9184803883cc12e
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woodcutter_lanzaMadera_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 0
+        width: 26
+        height: 32
+      alignment: 9
+      pivot: {x: 0.26813567, y: 0.061568014}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55dcccc52ecd98c4082c28d7450686f1
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woodcutter_lanzaMadera_2
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 0
+        width: 35
+        height: 32
+      alignment: 9
+      pivot: {x: 0.19809745, y: 0.06151384}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e240428a2fe8ca428d8d632201e2e4d
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woodcutter_lanzaMadera_3
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 0
+        width: 35
+        height: 32
+      alignment: 9
+      pivot: {x: 0.20006976, y: 0.063536234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c2a33850d458d45bfd7339c3a87512
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woodcutter_lanzaMadera_4
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 0
+        width: 39
+        height: 32
+      alignment: 9
+      pivot: {x: 0.17883731, y: 0.06295623}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2766b4f27edd3c942a18f83d05c2583e
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7940095e5aea34f4394407355b2c7bd3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

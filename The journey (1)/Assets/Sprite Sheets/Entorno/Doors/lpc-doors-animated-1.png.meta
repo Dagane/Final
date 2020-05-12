@@ -1,0 +1,440 @@
+fileFormatVersion: 2
+guid: d711bc0ce6469664ab8ba41524962d38
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: lpc-doors-animated-1_0
+  - first:
+      213: 21300002
+    second: lpc-doors-animated-1_1
+  - first:
+      213: 21300004
+    second: lpc-doors-animated-1_2
+  - first:
+      213: 21300006
+    second: lpc-doors-animated-1_3
+  - first:
+      213: 21300008
+    second: lpc-doors-animated-1_4
+  - first:
+      213: 21300010
+    second: lpc-doors-animated-1_5
+  - first:
+      213: 21300012
+    second: lpc-doors-animated-1_6
+  - first:
+      213: 21300014
+    second: lpc-doors-animated-1_7
+  - first:
+      213: 21300016
+    second: lpc-doors-animated-1_8
+  - first:
+      213: 21300018
+    second: lpc-doors-animated-1_9
+  - first:
+      213: 21300020
+    second: lpc-doors-animated-1_10
+  - first:
+      213: 21300022
+    second: lpc-doors-animated-1_11
+  - first:
+      213: 21300024
+    second: lpc-doors-animated-1_12
+  - first:
+      213: 21300026
+    second: lpc-doors-animated-1_13
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24.2
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lpc-doors-animated-1_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 464
+        width: 8
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7cd217945b9d94d900f6ecf6eaa4a0
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc-doors-animated-1_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 464
+        width: 6
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8805fd6dc155f1d43aa014c409a231d8
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc-doors-animated-1_2
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 368
+        width: 19
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305dd1bad8caece4a89b54c204f8c3b5
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc-doors-animated-1_3
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 368
+        width: 19
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f691bafadb995418716bc2e394940f
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc-doors-animated-1_4
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 272
+        width: 29
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83376405668293c49987ff4b2eee15f7
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc-doors-animated-1_5
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 272
+        width: 29
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f1497f95b29154186edce29abb9b5e
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc-doors-animated-1_6
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 208
+        width: 32
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381592e82be5fdc4bb4185cf7e2d73bb
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc-doors-animated-1_7
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 208
+        width: 32
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2f4008a0f21244d8a815fa7850c1ee
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc-doors-animated-1_8
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 144
+        width: 29
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4771e025517592b42b45f47de24694ac
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc-doors-animated-1_9
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 144
+        width: 29
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b43753ffa87d140bd971e40de2a1e9
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc-doors-animated-1_10
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 80
+        width: 18
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63366ff91c4c6343bbe9047be1231ff
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc-doors-animated-1_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 80
+        width: 18
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecfd3d8e17679fc4f9d7c5283e3cf2c0
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc-doors-animated-1_12
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 16
+        width: 8
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e11f56502167342a695aefe5968676
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc-doors-animated-1_13
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 16
+        width: 6
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72f4750267fb3c47af3e31a7da5f43e
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: deeff8c53159d384d974059438de37fc
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
